@@ -1,0 +1,11 @@
+begin;
+insert into secretario(cpf,email,nome,senha,tel1) values ('51662851073','pedro.dutra27@gmail.com','pedro dutra','IStKVP6v6MzgbtouefoMAQ','84986179644');
+insert into secretario(cpf,email,nome,senha,tel1) values ('79036983037','eduardof2001@hotmail.com','eduardo folle','iTxbn_vJ_zjCm-jpn7JpNQ','69975169652');
+insert into secretario(cpf,email,nome,senha,tel1) values ('24379275060','amd_oliveira@outlook.com','amanda oliveira','UC6UyuQlJyRUGJPrIptIDw','96981664625');
+insert into secretario(cpf,email,nome,senha,tel1) values ('43876708001','fernandacostaoficial@yahoo.com','fernanda costa','LJJ7LYE2AgY90PfHDxAaGA','96987131746');
+insert into secretario(cpf,email,nome,senha,tel1) values ('52105543090','casagrandeg89@gmail.com','guilherme casagrande','vT5g117Hja46MbiLX3GTSg','63974618520');
+insert into secretario(cpf,email,nome,senha,tel1) values ('27656679006','mariasilva0511@gmail.com','maria da silva','RDqT1WIApTT_8mtuyYGjfQ','95984775548');
+insert into secretario(cpf,email,nome,senha,tel1,tel2) values ('53137550050','gustavo.achapeco@gmail.com','gustavo alves','wXsgm1qhRyVNIM5DFL20Tg','21967480219','21986490353');
+insert into secretario(cpf,email,nome,senha,tel1) values ('00603691080','olivia@yahoo.com','olivia palito','PLz_1aqyxxUGCbFNbrfxqg','68989872643');
+insert into secretario(cpf,email,nome,senha,tel1) values ('10857362020','alex_ramos1@outlook.com','alex ramos','aHYAUNKjNg7LYVNVpCbE2A','96991211142');
+insert into secretario(cpf,email,nome,senha,tel1,tel2) values ('92281293017','mouramarina123@hotmail.com','marina moura','xKQbnd1-7BiH5KSamIy4Ug','95979669486','28969995894');

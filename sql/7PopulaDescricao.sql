@@ -1,0 +1,18 @@
+begin;
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (0, '2021-03-15', 'Atendimento inicial, paciente com boa higiene bucal.', '64181247155', 0);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (1, '2021-12-12', 'Consulta de rotina, sem problemas detectados.', '96571335808', 1);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (2, '2022-01-01', 'Paciente encaminhado para exame radiográfico.', '86825370600', 2);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (3, '2022-02-15', 'Tratamento de canal realizado com sucesso.', '84728214206', 3);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (4, '2022-03-20', 'Procedimento de limpeza e profilaxia.', '53756402606', 4);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (5, '2022-04-05', 'Ajuste de prótese dentária.', '58274111249', 5);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (6, '2022-05-10', 'Extração de dente do siso.', '13421858462', 6);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (7, '2022-06-25', 'Acompanhamento pós-cirúrgico.', '42746284693', 7);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (8, '2022-07-03', 'Orientações sobre cuidados bucais.', '92561538230', 8);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (9, '2022-08-12', 'Realização de restauração em dente cariado.', '56057928300', 9);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (10, '2022-09-18', 'Avaliação de ortodontia.', '64181247155', 10);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (11, '2022-10-22', 'Paciente com gengivite, aplicação de tratamento.', '96571335808', 11);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (12, '2022-11-30', 'Discussão sobre opções de clareamento dental.', '86825370600', 12);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (13, '2023-01-05', 'Profilaxia realizada com sucesso.', '84728214206', 13);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (14, '2023-02-10', 'Ajuste de aparelho ortodôntico.', '53756402606', 14);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (15, '2023-03-10', 'Ajuste de prótese dentária e limpeza', '58274111249', 5);
+INSERT INTO descricao(id, datedes, conteudo, cpf, idc) VALUES (16, '2023-05-01', 'Avaliação de ortodontia e extração cárie', '13421858462', 10);

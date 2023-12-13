@@ -1,0 +1,11 @@
+begin;
+insert into dentista(cpf,email,nome,senha,tel1) values ('64181247155','eduardo.win@protonmail.com','eduardo winckler','YZ_r-_NgPrNkVFf5WFHq1Q','86982384557');
+insert into dentista(cpf,email,nome,senha,tel1) values ('96571335808','luizawincler14@hotmail.com','luiza winckler','w6CA4_WvoV56gIJRUDKYwg','61979723682');
+insert into dentista(cpf,email,nome,senha,tel1) values ('86825370600','wincklerodontologia@gmail.com','luiz winckler','HacJoxTrP6-d2FMQgHyZpQ','68987060826');
+insert into dentista(cpf,email,nome,senha,tel1) values ('84728214206','arthursilva98@outlook.com','arthur da silva','o0XGi2LmgH2yC5jYBvVhPw','31991079345');
+insert into dentista(cpf,email,nome,senha,tel1,tel2) values ('53756402606','matheuscarvalho@gmail.com','matheus carvalho','hnSn0VowHhf3GvR9BU2Zxw','79973039782','22989763186');
+insert into dentista(cpf,email,nome,senha,tel1) values ('58274111249','oilamoretto@gmail.com','odila moretto','7CM3OOHBdJEzlxhVJvo2XA','81972845964');
+insert into dentista(cpf,email,nome,senha,tel1) values ('13421858462','brunadias@gmail.com','bruna dias','oHK7WovYXbbNBBnjWGks1VZHCb6smf6aCgS6Wo6sdrk','14967305147');
+insert into dentista(cpf,email,nome,senha,tel1) values ('42746284693','patriciasantos2@hotmail.com','patricia dos santos','s1J3B_llkHT3TDlubOq7hA','77980148088');
+insert into dentista(cpf,email,nome,senha,tel1,tel2) values ('92561538230','americo@yahoo.com','americo bertaso','4IT4q0oro976yS1uMsKv1Q','96969014252','68989698355');
+insert into dentista(cpf,email,nome,senha,tel1) values ('56057928300','pedrames1995@gmail.com','pedro ames','7icUuMfH3TXxJqq94O0p5g','67989453317');

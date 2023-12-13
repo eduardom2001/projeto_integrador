@@ -1,0 +1,16 @@
+begin;
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (0,'64181247155','2021-03-15',9);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (1,'64181247155','2021-12-12',1);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (2,'96571335808','2022-01-01',2);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (3,'86825370600','2022-02-15',3);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (4,'84728214206','2022-03-20',4);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (5,'53756402606','2022-04-05',5);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (6,'53756402606','2022-05-10',6);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (7,'58274111249','2022-06-25',7);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (8,'13421858462','2022-07-03',8);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (9,'13421858462','2022-08-12',9);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (10,'42746284693','2022-09-18',10);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (11,'92561538230','2022-10-22',5);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (12,'56057928300','2022-11-30',4);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (13,'56057928300','2023-01-05',6);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (14,'56057928300','2023-02-10',1);
