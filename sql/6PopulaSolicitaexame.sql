@@ -19,3 +19,4 @@ insert into solicitaexame(idc,ide) values (2,16);
 insert into solicitaexame(idc,ide) values (3,17);
 insert into solicitaexame(idc,ide) values (4,18);
 insert into solicitaexame(idc,ide) values (5,19);
+end;

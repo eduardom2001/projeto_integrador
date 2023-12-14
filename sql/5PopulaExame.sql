@@ -19,3 +19,4 @@ INSERT INTO exames(id, tipo, dataex, idp) VALUES (16, 'Tomografia', '2021-01-05'
 INSERT INTO exames(id, tipo, idp) VALUES (17, 'Laudo', 8);
 INSERT INTO exames(id, tipo, idp) VALUES (18, 'Laudo', 9);
 INSERT INTO exames(id, tipo, dataex, idp) VALUES (19, 'Raio-X', '2020-09-14', 0);
+end;

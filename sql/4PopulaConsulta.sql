@@ -9,8 +9,9 @@ INSERT INTO consulta(id,cpf,datacon,idp) VALUES (6,'53756402606','2022-05-10',6)
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (7,'58274111249','2022-06-25',7);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (8,'13421858462','2022-07-03',8);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (9,'13421858462','2022-08-12',9);
-INSERT INTO consulta(id,cpf,datacon,idp) VALUES (10,'42746284693','2022-09-18',10);
+INSERT INTO consulta(id,cpf,datacon,idp) VALUES (10,'42746284693','2022-09-18',0);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (11,'92561538230','2022-10-22',5);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (12,'56057928300','2022-11-30',4);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (13,'56057928300','2023-01-05',6);
 INSERT INTO consulta(id,cpf,datacon,idp) VALUES (14,'56057928300','2023-02-10',1);
+end;

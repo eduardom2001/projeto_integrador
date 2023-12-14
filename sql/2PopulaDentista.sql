@@ -9,3 +9,4 @@ insert into dentista(cpf,email,nome,senha,tel1) values ('13421858462','brunadias
 insert into dentista(cpf,email,nome,senha,tel1) values ('42746284693','patriciasantos2@hotmail.com','patricia dos santos','s1J3B_llkHT3TDlubOq7hA','77980148088');
 insert into dentista(cpf,email,nome,senha,tel1,tel2) values ('92561538230','americo@yahoo.com','americo bertaso','4IT4q0oro976yS1uMsKv1Q','96969014252','68989698355');
 insert into dentista(cpf,email,nome,senha,tel1) values ('56057928300','pedrames1995@gmail.com','pedro ames','7icUuMfH3TXxJqq94O0p5g','67989453317');
+end;

@@ -9,3 +9,4 @@ insert into secretario(cpf,email,nome,senha,tel1,tel2) values ('53137550050','gu
 insert into secretario(cpf,email,nome,senha,tel1) values ('00603691080','olivia@yahoo.com','olivia palito','PLz_1aqyxxUGCbFNbrfxqg','68989872643');
 insert into secretario(cpf,email,nome,senha,tel1) values ('10857362020','alex_ramos1@outlook.com','alex ramos','aHYAUNKjNg7LYVNVpCbE2A','96991211142');
 insert into secretario(cpf,email,nome,senha,tel1,tel2) values ('92281293017','mouramarina123@hotmail.com','marina moura','xKQbnd1-7BiH5KSamIy4Ug','95979669486','28969995894');
+end;

@@ -4,8 +4,9 @@ insert into paciente(id,tel1,nome,convenio) values (1,'61968691835','Thiago Rodr
 insert into paciente(id,tel1,nome,convenio) values (2,'89969157604','Tânia Pinto Alves','banco do brasil');
 insert into paciente(id,cpf,tel1,nome,convenio,rua,num,bairro) values (3,'67006787220','46996960183','Clara Fernandes Sousa','unimed','rua são vincente',3976,'são pedro');
 insert into paciente(id,cpf,tel1,nome,convenio) values (4,'70397955588','67976611239','Carolina Almeida Barros','banco do brasil');
-insert into paciente(id,cpf,tel1,nome,convenio) values (5,'46984273654','Larissa Silva Cavalcanti','unimed');
+insert into paciente(id,cpf,tel1,nome,convenio) values (5,'46984273654','67976611222','Larissa Silva Cavalcanti','unimed');
 insert into paciente(id,tel1,nome,convenio) values (6,'87967517603','Clara Melo Goncalves','banco do brasil');
 insert into paciente(id,tel1,nome,convenio,email) values (7,'54987522942','Pedro Gomes Costa','unimed','pedrogcosta99@hotmail.com');
 insert into paciente(id,tel1,nome,convenio) values (8,'89984118437','Douglas Dias Gomes','unimed');
 insert into paciente(id,cpf,tel1,nome,convenio,email) values (9,'36294344280','28983982104','Daniel Santos Cavalcanti','bradesco','danielsantosoficial@yahoo.com');
+end;
